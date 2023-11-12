@@ -32,4 +32,4 @@
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/muhammed-sinan-87a81a254/)
-- [Email](muhammedsinan203@gmail.com)
+- Email - muhammedsinan203@gmail.com
