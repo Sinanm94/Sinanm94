@@ -10,13 +10,15 @@
 
 ## 💡 Skills
 - **Languages:** Python, Java
-- **Tech:** Android Dev, ML (Scikit-learn)
-- **Web:** HTML, CSS, JavaScript
+- **Tech:** Android Dev, ML (Scikit-learn), AWS (Translate API, ChatEngine)
+- **Web:** HTML, CSS, JavaScript, React.js
+- **Backend:** Node.js, Express
 - **Data Analysis:** NumPy, Pandas, Matplotlib, SQL
   - *Experienced in analyzing and visualizing data using various tools.*
 - **Version Control:** Git, GitHub
   - *Proficient in version control for collaborative development.*
-- **Tools:** Matlab, VS Code, Android Studio, Google Colab, Jupyter, Canva
+- **Tools:** VS Code, Android Studio, Google Colab, Jupyter, Canva, Postman
+
 
 ## 🛠 Internships & Projects
 - **Laptop Price Prediction | ML Intern**
