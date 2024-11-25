@@ -16,18 +16,17 @@
   - *CGPA: 7.40*
   - *Graduated*
 
-## 💡 Skills
-- **Languages:** Python
-- **Tech:** Android Dev, ML (Scikit-learn).
-- **Web:** HTML, CSS, JavaScript.
-- **Data Analysis:** NumPy, Pandas, Matplotlib, SQL
-  - *Experienced in analyzing and visualizing data using various tools.*
-- **Version Control:** Git, GitHub
-  - *Proficient in version control for collaborative development.*
-- **Tools:** Kali Linux, VMWare, Nmap, VS Code, Google Colab, Jupyter, Canva, Figma.
+## 🛠️ Technical Toolkit
+- **Languages:** Python, SQL  
+- **Machine Learning:** Scikit-learn  
+- **Web Development:** HTML, CSS, JavaScript  
+- **Data Analysis:** NumPy, Pandas, Matplotlib  
+- **Version Control:** Git, GitHub  
+- **Cybersecurity Tools:** Kali Linux, Nmap, Wireshark  
+- **Development Tools:** VS Code, Google Colab, Jupyter Notebook  
+- **Design Tools:** Canva, Figma  
 
-
-## 🛠 Internships & Projects
+## 🛠 Internships
 **Mastercard Cybersecurity Virtual Experience Program (Forage) | Cybersecurity Analyst Intern**
   - *Analysed and reported security threats, including phishing attacks, as part of Mastercard’s Security Awareness Team.*
 
@@ -35,6 +34,9 @@
   - *Built regression-based laptop price prediction model.*
 
 ## 📚 Courses & Workshops
+- *NASSCOM Networking & Cyber Security HTD Program - Accenture, 2024*
+- *Google Cybersecurity Professional Certificate - Coursera, 2024*
+- *Introduction to Generative AI -  Coursera, 2024*
 - *Supply Chain Management Workshop, 2023*
 - *MATLAB Onramp, 2023*
 - *Business Analysis & Process Management, Coursera, 2022*
