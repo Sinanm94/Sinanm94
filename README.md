@@ -6,18 +6,18 @@
 - **B.E. Artificial Intelligence and Machine Learning**
   - *Mangalore Institute of Technology & Engineering*
   - *CGPA: 7.40*
-  - *Present*
+  - *Graduated*
 
 ## 💡 Skills
-- **Languages:** Python, Java
-- **Tech:** Android Dev, ML (Scikit-learn), AWS (Translate API, ChatEngine)
-- **Web:** HTML, CSS, JavaScript, React.js
+- **Languages:** Python
+- **Tech:** Android Dev, ML (Scikit-learn).
+- **Web:** HTML, CSS, JavaScript.
 - **Backend:** Node.js, Express
 - **Data Analysis:** NumPy, Pandas, Matplotlib, SQL
   - *Experienced in analyzing and visualizing data using various tools.*
 - **Version Control:** Git, GitHub
   - *Proficient in version control for collaborative development.*
-- **Tools:** VS Code, Android Studio, Google Colab, Jupyter, Canva, Postman
+- **Tools:** Kali Linux, VMWare, Nmap, VS Code, Android Studio, Google Colab, Jupyter, Canva, Figma.
 
 
 ## 🛠 Internships & Projects
