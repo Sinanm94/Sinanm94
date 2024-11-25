@@ -12,12 +12,11 @@
 - **Languages:** Python
 - **Tech:** Android Dev, ML (Scikit-learn).
 - **Web:** HTML, CSS, JavaScript.
-- **Backend:** Node.js, Express
 - **Data Analysis:** NumPy, Pandas, Matplotlib, SQL
   - *Experienced in analyzing and visualizing data using various tools.*
 - **Version Control:** Git, GitHub
   - *Proficient in version control for collaborative development.*
-- **Tools:** Kali Linux, VMWare, Nmap, VS Code, Android Studio, Google Colab, Jupyter, Canva, Figma.
+- **Tools:** Kali Linux, VMWare, Nmap, VS Code, Google Colab, Jupyter, Canva, Figma.
 
 
 ## 🛠 Internships & Projects
