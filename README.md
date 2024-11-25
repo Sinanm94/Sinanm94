@@ -5,7 +5,7 @@
 ## 🎓 Education
 - **B.E. Artificial Intelligence and Machine Learning**
   - *Mangalore Institute of Technology & Engineering*
-  - *CGPA: 7.3*
+  - *CGPA: 7.40*
   - *Present*
 
 ## 💡 Skills
