@@ -1,6 +1,14 @@
 # Hi there! 👋 I'm Muhammed Sinan
 
-🚀 **AI&ML Engineering student** with a passion for data analysis, machine learning, and front-end development. Currently exploring the intersection of AI and front-end development.
+## 👋 About Me  
+
+👨‍💻 I thrive at the intersection of **AI** and **Cybersecurity**, continuously exploring how advanced technologies can solve real-world challenges.  
+🛠️ My projects showcase my expertise in **NLP**, **model fine-tuning**, and **cybersecurity awareness tools**.  
+
+### 🏆 Highlights:
+- 🚀 Created **AutoMeet**, an AI-driven meeting summarization tool, which secured **2nd place in the Innovation 2024 competition**.  
+- 🔒 Completed the **Mastercard Cybersecurity Virtual Experience**, focusing on **security awareness** and **phishing prevention**.  
+
 
 ## 🎓 Education
 - **B.E. Artificial Intelligence and Machine Learning**
@@ -20,11 +28,11 @@
 
 
 ## 🛠 Internships & Projects
+**Mastercard Cybersecurity Virtual Experience Program (Forage) | Cybersecurity Analyst Intern**
+  - *Analysed and reported security threats, including phishing attacks, as part of Mastercard’s Security Awareness Team.*
+
 - **Laptop Price Prediction | ML Intern**
   - *Built regression-based laptop price prediction model.*
-
-- **EazyCheez | Sales Lead**
-  - *Drove sales for Grocery & Food Ordering Platform.*
 
 ## 📚 Courses & Workshops
 - *Supply Chain Management Workshop, 2023*
